@@ -1,0 +1,48 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+.main-div{
+    background: rgb(211, 205, 205);
+    padding: 30px 0;
+    
+}
+.green-portion{
+    
+    width: 400px;
+    background: green;
+    text-align: center;
+    padding: 20px 0;
+    margin: auto;
+    box-shadow: 2px 2px 10px #bfb2b2;
+  
+    
+}
+.red-portion{
+    height: 150px;
+    width: 150px;
+    background: red;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.dim{
+    width: 158px;
+    height: 95px;
+    background: #ffffff;
+    margin: auto;
+    text-align: center;
+    border: 2px solid rgb(249 182 11);
+    border-radius: 50%;
+    margin-top: 50px;
+
+}
+.kusum{
+    width: 50px;
+    height: 50px;
+    background: rgb(248, 162, 1);
+    display: inline-block;
+    border-radius: 50%;
+    margin-top: 24px;
+}
